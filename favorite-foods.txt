@@ -1,7 +1,6 @@
-* Pizza
-* Quesidillas
-* Pad Thai 
-* Ice cream
-* Lasagna
-* Burritos
-
+* Burritos [mexican]
+* Ice cream [dessert]
+* Lasagna [italian]
+* Pad Thai [asain]
+* Pizza [italian]
+* Quesidillas [mexican]
